@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/FPS/Maps/GameMap.umap",
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/_GENERATED/chinw/Box_1098678A.uasset",
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/_GENERATED/chinw/Stairs_CA97AADA.uasset",
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/_GENERATED/chinw/Box_2134056F.uasset",
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/FPS/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/chinw/Documents/Toronto Film School/Term 4/VGP201-Graphics Programming 1/Week 2/VGP201FPSStarter/VGP201FPSStarter/Content/FPS/Blueprints/Player/BP_Player.uasset"
+			]
+		}
+	]
+}
